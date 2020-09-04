@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  padding-bottom: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+h3{
+  margin: 5px 0;
+  color: #f6416c;
+}
+
+span{
+  font-weight: bold;
+}
+
+.profileImage{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 20%;
+}
+
+.topContainer{
+  padding: 20px;
+  background-color: #f8f3d4;
+  margin: 0;
+}
+
+.contactDiv{
+  margin: 0;
+  padding: 20px;
+  background-color: #ffde7d;
+  padding-bottom: 20px;
+
+}
+
+.navbarCustom{
+  background-color: #00b8a9;
+}
+
+.card-deck, .card{
+  margin-top: 15px;
+}
+
+.navbarCustom .navbar-brand,
+.navbarCustom .navbar-text {
+  color: white;
+}
+
+.guidebookTable{
+  margin-top: 10px;
+}
+
+.bookTableHeaderOverview{
+  text-align: center;
+  background-color: #ffde7d;
+  font-weight: bold;
+}
+
+@media (min-height: 800px) {
+  .contactDiv{
+    padding-bottom: 400px;
+  }
+}
