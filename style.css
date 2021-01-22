@@ -61,9 +61,9 @@ span{
 .strikethrough{
   text-decoration: line-through;
 }
-
+/* 
 @media (min-height: 800px) {
   .contactDiv{
     padding-bottom: 400px;
   }
-}
+} */
