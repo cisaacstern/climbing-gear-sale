@@ -2,6 +2,7 @@ body{
   margin: 0;
   padding-bottom: 0;
   font-family: 'Raleway', sans-serif;
+  min-height: 100vh;
 }
 
 h3{
@@ -32,8 +33,6 @@ span{
   padding: 20px;
   background-color: #ffde7d;
   padding-bottom: 20px;
-  height: 100vh;
-
 }
 
 .navbarCustom{
